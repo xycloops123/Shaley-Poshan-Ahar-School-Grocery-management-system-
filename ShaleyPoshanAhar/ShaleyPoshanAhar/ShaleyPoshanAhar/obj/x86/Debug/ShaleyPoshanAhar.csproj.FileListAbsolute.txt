@@ -1,0 +1,79 @@
+H:\ShaleyPoshanAhar\ShaleyPoshanAhar\bin\Debug\SchoolDB.mdf
+H:\ShaleyPoshanAhar\ShaleyPoshanAhar\bin\Debug\SchoolDB_log.ldf
+H:\ShaleyPoshanAhar\ShaleyPoshanAhar\bin\Debug\ShaleyPoshanAhar.exe.config
+H:\ShaleyPoshanAhar\ShaleyPoshanAhar\bin\Debug\ShaleyPoshanAhar.exe
+H:\ShaleyPoshanAhar\ShaleyPoshanAhar\bin\Debug\ShaleyPoshanAhar.pdb
+H:\ShaleyPoshanAhar\ShaleyPoshanAhar\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\ShaleyPoshanAhar\ShaleyPoshanAhar\obj\x86\Debug\ShaleyPoshanAhar.GroupMaster.resources
+H:\ShaleyPoshanAhar\ShaleyPoshanAhar\obj\x86\Debug\ShaleyPoshanAhar.Menu.resources
+H:\ShaleyPoshanAhar\ShaleyPoshanAhar\obj\x86\Debug\ShaleyPoshanAhar.Properties.Resources.resources
+H:\ShaleyPoshanAhar\ShaleyPoshanAhar\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\ShaleyPoshanAhar\ShaleyPoshanAhar\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\ShaleyPoshanAhar\ShaleyPoshanAhar\obj\x86\Debug\ShaleyPoshanAhar.exe
+H:\ShaleyPoshanAhar\ShaleyPoshanAhar\obj\x86\Debug\ShaleyPoshanAhar.pdb
+H:\ShaleyPoshanAhar\ShaleyPoshanAhar\obj\x86\Debug\ShaleyPoshanAhar.ItemMaster.resources
+H:\ShaleyPoshanAhar\ShaleyPoshanAhar\obj\x86\Debug\ShaleyPoshanAhar.DailyEntry.resources
+H:\ShaleyPoshanAhar\ShaleyPoshanAhar\obj\x86\Debug\ShaleyPoshanAhar.Reports.ReportDailyEntry.resources
+H:\ShaleyPoshanAhar\ShaleyPoshanAhar\obj\x86\Debug\ShaleyPoshanAhar.UpdateWeight.resources
+D:\ShaleyPoshanAhar\ShaleyPoshanAhar\bin\Debug\ShaleyPoshanAhar.exe.config
+D:\ShaleyPoshanAhar\ShaleyPoshanAhar\obj\x86\Debug\ShaleyPoshanAhar.exe
+D:\ShaleyPoshanAhar\ShaleyPoshanAhar\obj\x86\Debug\ShaleyPoshanAhar.pdb
+D:\ShaleyPoshanAhar\ShaleyPoshanAhar\bin\Debug\SchoolDB.mdf
+D:\ShaleyPoshanAhar\ShaleyPoshanAhar\bin\Debug\SchoolDB_log.ldf
+D:\ShaleyPoshanAhar\ShaleyPoshanAhar\bin\Debug\ShaleyPoshanAhar.exe
+D:\ShaleyPoshanAhar\ShaleyPoshanAhar\bin\Debug\ShaleyPoshanAhar.pdb
+D:\ShaleyPoshanAhar\ShaleyPoshanAhar\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\ShaleyPoshanAhar\ShaleyPoshanAhar\obj\x86\Debug\ShaleyPoshanAhar.DailyEntry.resources
+D:\ShaleyPoshanAhar\ShaleyPoshanAhar\obj\x86\Debug\ShaleyPoshanAhar.GroupMaster.resources
+D:\ShaleyPoshanAhar\ShaleyPoshanAhar\obj\x86\Debug\ShaleyPoshanAhar.ItemMaster.resources
+D:\ShaleyPoshanAhar\ShaleyPoshanAhar\obj\x86\Debug\ShaleyPoshanAhar.Menu.resources
+D:\ShaleyPoshanAhar\ShaleyPoshanAhar\obj\x86\Debug\ShaleyPoshanAhar.Properties.Resources.resources
+D:\ShaleyPoshanAhar\ShaleyPoshanAhar\obj\x86\Debug\ShaleyPoshanAhar.Reports.ReportDailyEntry.resources
+D:\ShaleyPoshanAhar\ShaleyPoshanAhar\obj\x86\Debug\ShaleyPoshanAhar.UpdateWeight.resources
+D:\ShaleyPoshanAhar\ShaleyPoshanAhar\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\ShaleyPoshanAhar\ShaleyPoshanAhar\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\ShaleyPoshanAhar\ShaleyPoshanAhar\bin\Debug\ShaleyPoshanAhar.exe.manifest
+D:\ShaleyPoshanAhar\ShaleyPoshanAhar\bin\Debug\ShaleyPoshanAhar.application
+D:\ShaleyPoshanAhar\ShaleyPoshanAhar\obj\x86\Debug\ShaleyPoshanAhar.exe.manifest
+D:\ShaleyPoshanAhar\ShaleyPoshanAhar\obj\x86\Debug\ShaleyPoshanAhar.application
+H:\Gaurav\D drive works\ShaleyPoshanAhar\ShaleyPoshanAhar\bin\Debug\ShaleyPoshanAhar.exe.config
+H:\Gaurav\D drive works\ShaleyPoshanAhar\ShaleyPoshanAhar\obj\x86\Debug\ShaleyPoshanAhar.exe
+H:\Gaurav\D drive works\ShaleyPoshanAhar\ShaleyPoshanAhar\obj\x86\Debug\ShaleyPoshanAhar.pdb
+H:\Gaurav\D drive works\ShaleyPoshanAhar\ShaleyPoshanAhar\bin\Debug\SchoolDB.mdf
+H:\Gaurav\D drive works\ShaleyPoshanAhar\ShaleyPoshanAhar\bin\Debug\SchoolDB_log.ldf
+H:\Gaurav\D drive works\ShaleyPoshanAhar\ShaleyPoshanAhar\bin\Debug\ShaleyPoshanAhar.exe.manifest
+H:\Gaurav\D drive works\ShaleyPoshanAhar\ShaleyPoshanAhar\bin\Debug\ShaleyPoshanAhar.application
+H:\Gaurav\D drive works\ShaleyPoshanAhar\ShaleyPoshanAhar\bin\Debug\ShaleyPoshanAhar.exe
+H:\Gaurav\D drive works\ShaleyPoshanAhar\ShaleyPoshanAhar\bin\Debug\ShaleyPoshanAhar.pdb
+H:\Gaurav\D drive works\ShaleyPoshanAhar\ShaleyPoshanAhar\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Gaurav\D drive works\ShaleyPoshanAhar\ShaleyPoshanAhar\obj\x86\Debug\ShaleyPoshanAhar.DailyEntry.resources
+H:\Gaurav\D drive works\ShaleyPoshanAhar\ShaleyPoshanAhar\obj\x86\Debug\ShaleyPoshanAhar.GroupMaster.resources
+H:\Gaurav\D drive works\ShaleyPoshanAhar\ShaleyPoshanAhar\obj\x86\Debug\ShaleyPoshanAhar.ItemMaster.resources
+H:\Gaurav\D drive works\ShaleyPoshanAhar\ShaleyPoshanAhar\obj\x86\Debug\ShaleyPoshanAhar.Menu.resources
+H:\Gaurav\D drive works\ShaleyPoshanAhar\ShaleyPoshanAhar\obj\x86\Debug\ShaleyPoshanAhar.Properties.Resources.resources
+H:\Gaurav\D drive works\ShaleyPoshanAhar\ShaleyPoshanAhar\obj\x86\Debug\ShaleyPoshanAhar.Reports.ReportDailyEntry.resources
+H:\Gaurav\D drive works\ShaleyPoshanAhar\ShaleyPoshanAhar\obj\x86\Debug\ShaleyPoshanAhar.UpdateWeight.resources
+H:\Gaurav\D drive works\ShaleyPoshanAhar\ShaleyPoshanAhar\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\Gaurav\D drive works\ShaleyPoshanAhar\ShaleyPoshanAhar\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\Gaurav\D drive works\ShaleyPoshanAhar\ShaleyPoshanAhar\obj\x86\Debug\ShaleyPoshanAhar.exe.manifest
+H:\Gaurav\D drive works\ShaleyPoshanAhar\ShaleyPoshanAhar\obj\x86\Debug\ShaleyPoshanAhar.application
+F:\D drive works\ShaleyPoshanAhar\ShaleyPoshanAhar\bin\Debug\ShaleyPoshanAhar.exe.config
+F:\D drive works\ShaleyPoshanAhar\ShaleyPoshanAhar\obj\x86\Debug\ShaleyPoshanAhar.exe
+F:\D drive works\ShaleyPoshanAhar\ShaleyPoshanAhar\obj\x86\Debug\ShaleyPoshanAhar.pdb
+F:\D drive works\ShaleyPoshanAhar\ShaleyPoshanAhar\bin\Debug\SchoolDB.mdf
+F:\D drive works\ShaleyPoshanAhar\ShaleyPoshanAhar\bin\Debug\SchoolDB_log.ldf
+F:\D drive works\ShaleyPoshanAhar\ShaleyPoshanAhar\bin\Debug\ShaleyPoshanAhar.exe.manifest
+F:\D drive works\ShaleyPoshanAhar\ShaleyPoshanAhar\bin\Debug\ShaleyPoshanAhar.application
+F:\D drive works\ShaleyPoshanAhar\ShaleyPoshanAhar\bin\Debug\ShaleyPoshanAhar.exe
+F:\D drive works\ShaleyPoshanAhar\ShaleyPoshanAhar\bin\Debug\ShaleyPoshanAhar.pdb
+F:\D drive works\ShaleyPoshanAhar\ShaleyPoshanAhar\obj\x86\Debug\ShaleyPoshanAhar.csprojResolveAssemblyReference.cache
+F:\D drive works\ShaleyPoshanAhar\ShaleyPoshanAhar\obj\x86\Debug\ShaleyPoshanAhar.DailyEntry.resources
+F:\D drive works\ShaleyPoshanAhar\ShaleyPoshanAhar\obj\x86\Debug\ShaleyPoshanAhar.GroupMaster.resources
+F:\D drive works\ShaleyPoshanAhar\ShaleyPoshanAhar\obj\x86\Debug\ShaleyPoshanAhar.ItemMaster.resources
+F:\D drive works\ShaleyPoshanAhar\ShaleyPoshanAhar\obj\x86\Debug\ShaleyPoshanAhar.Menu.resources
+F:\D drive works\ShaleyPoshanAhar\ShaleyPoshanAhar\obj\x86\Debug\ShaleyPoshanAhar.Properties.Resources.resources
+F:\D drive works\ShaleyPoshanAhar\ShaleyPoshanAhar\obj\x86\Debug\ShaleyPoshanAhar.Reports.ReportDailyEntry.resources
+F:\D drive works\ShaleyPoshanAhar\ShaleyPoshanAhar\obj\x86\Debug\ShaleyPoshanAhar.UpdateWeight.resources
+F:\D drive works\ShaleyPoshanAhar\ShaleyPoshanAhar\obj\x86\Debug\ShaleyPoshanAhar.csproj.GenerateResource.Cache
+F:\D drive works\ShaleyPoshanAhar\ShaleyPoshanAhar\obj\x86\Debug\ShaleyPoshanAhar.exe.manifest
+F:\D drive works\ShaleyPoshanAhar\ShaleyPoshanAhar\obj\x86\Debug\ShaleyPoshanAhar.application
